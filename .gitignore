@@ -1,7 +1,6 @@
 .DS_Store
 private/
 node_modules/
-dist/
 .eslintrc
 .npmrc
 *.log
